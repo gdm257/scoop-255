@@ -15,6 +15,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/allusion-app/Allusion/releases/download/v$version/AllusionPortable.$version.exe#/Allusion.exe"
+        "url": "https://github.com/Blinue/Magpie/releases/download/v$version/Magpie_v$version.zip"
     }
 }
