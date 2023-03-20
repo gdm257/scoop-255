@@ -19,6 +19,9 @@
         }
     },
     "bin": "mayfly-go.exe",
+    "persist": [
+        "config.yml"
+    ],
     "checkver": {
         "url": "https://gitee.com/objs/mayfly-go/releases/latest",
         "regex": "<span>v(?<Version>[\\d\\.]+?)</span>",
