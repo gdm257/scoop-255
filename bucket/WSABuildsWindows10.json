@@ -13,7 +13,7 @@
     "notes": [
         "WSABuilds requires Windows™ 10 22H2 10.0.19045.2311 or higher",
         "",
-        "To install or update WSA, run the following command with admin privileges:",
+        "To install or update WSA, run the following command:",
         "$dir\\Run.bat"
     ],
     "checkver": "github"

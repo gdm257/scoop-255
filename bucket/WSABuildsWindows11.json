@@ -18,7 +18,7 @@
     "notes": [
         "WSABuilds requires Windows™ 11 Build 22000.526 or higher.",
         "",
-        "To install or update WSA, run the following command with admin privileges:",
+        "To install or update WSA, run the following command:",
         "$dir\\Run.bat"
     ],
     "checkver": "github"
