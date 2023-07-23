@@ -9,6 +9,7 @@
     "shortcuts": [
         [
             "Allusion.exe",
+            "--disable-smooth-scrolling",
             "Allusion"
         ]
     ],
