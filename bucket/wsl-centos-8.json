@@ -16,6 +16,14 @@
             "CentOS 8"
         ]
     ],
+    "suggest": {
+        "lxrunoffline": ["lxrunoffline"]
+    },
+    "notes":[
+        "To install rootfs as a distro, you can run any command below:",
+        "    wsl --import CentOS8 \"$dir/distro\" \"$dir/CentOS8.zip\"",
+        "    lxrunoffline install -n CentOS8 -d \"$dir/distro\" -f \"$dir/CentOS8.zip\""
+    ],
     "checkver": "github",
     "autoupdate": {
         "architecture": {
