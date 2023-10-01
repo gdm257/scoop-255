@@ -17,6 +17,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/tonquer/ehentai-qt/releases/download/v1.1.5/ehentai_v1.1.5_windows_x64.zip"
+        "url": "https://github.com/tonquer/ehentai-qt/releases/download/v$version/ehentai_v$version_windows_x64.zip"
     }
 }
